@@ -1,0 +1,154 @@
+{
+    "questions": [
+        {
+            "question": "Who lived at 221B, Baker Street, London?",
+            "options": [
+                "Sherlock Holmes",
+                "George Walker Bush",
+                "Donald Trump",
+                "prince Harry"
+            ],
+            "answer": "Sherlock Holmes"
+        },
+        {
+            "question": "How many states are there in america",
+            "options": [
+                "40",
+                "47",
+                "50",
+                "32"
+            ],
+            "answer": "50"
+        },
+        {
+            "question": "World 4th richest man",
+            "options": [
+                "Jeff Bezos",
+                "Bill Gates",
+                "Bernard Arnault",
+                "Warren Buffett"
+            ],
+            "answer": "Warren Buffett"
+        },
+        {
+            "question": "The slogan for which Auto brand is ‘The best or nothing’?",
+            "options": [
+                "Mercedes-Benz",
+                "Honda",
+                "Ford",
+                "Vw"
+            ],
+            "answer": "Mercedes-Benz"
+        },
+        {
+            "question": "Which Fighter Jet Is The Fastest?",
+            "options": [
+                "Lockheed Martin F-22 Raptor",
+                "Dassault Mirage 2000",
+                "MiG-31",
+                "McDonnell Douglas F-15"
+            ],
+            "answer": "MiG-31"
+        },
+        {
+            "question": "The most peaceful country in the world",
+            "options": [
+                "Iceland",
+                "new zealand",
+                "Denmark",
+                "syria"
+            ],
+            "answer": "Iceland"
+        },
+        {
+            "question": "Which country will host the 45th G7 summit 2019 ",
+            "options": [
+                "Italy",
+                "Germany",
+                "France",
+                "Canada"
+            ],
+            "answer": "France"
+        },
+        {
+            "question": "Which of the following is the capital of Arunachal Pradesh ",
+            "options": [
+                "Itanagar",
+                "Dispur",
+                "Imphal",
+                "Panaji"
+            ],
+            "answer": "Itanagar"
+        },
+        {
+            "question": "Which is the largest coffee producing state of India ",
+            "options": [
+                "Kerala",
+                "Tamil Nadu",
+                "Karnataka",
+                "Arunachal Pradesh"
+            ],
+            "answer": "Karnataka"
+        },
+        {
+            "question": "Which state has the largest area ",
+            "options": [
+                "Maharashtra",
+                "Madhya Pradesh",
+                "Uttar Pradesh",
+                "Rajasthan"
+            ],
+            "answer": "Rajasthan"
+        },
+        {
+            "question": "Which state has the largest population",
+            "options": [
+                "Maharashtra",
+                "Madhya Pradesh",
+                "Uttar Pradesh",
+                "Rajasthan"
+            ],
+            "answer": "Uttar Pradesh"
+        },
+        {
+            "question": "Which among the following is not a power of RBI",
+            "options": [
+                "inspection of banks",
+                "Nationalization of Banks",
+                "Call of returns",
+                "Control the lending policies of the banks"
+            ],
+            "answer": "Nationalization of Banks"
+        },
+        {
+            "question": "Which among the following is not a power of RBI",
+            "options": [
+                "inspection of banks",
+                "Nationalization of Banks",
+                "Call of returns",
+                "Control the lending policies of the banks"
+            ],
+            "answer": "Nationalization of Banks"
+        },
+        {
+            "question": "India's largest city by population",
+            "options": [
+                "Mumbai",
+                "Bangalore",
+                "Delhi",
+                "Kolkata"
+            ],
+            "answer": "Mumbai"
+        },
+        {
+            "question": "Which state is known as India's spice garden",
+            "options": [
+                "Kerala",
+                "Karnataka",
+                "Assam",
+                "Andhra Pradesh"
+            ],
+            "answer": "Kerala"
+        }
+    ]
+}

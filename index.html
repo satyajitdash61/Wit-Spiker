@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Wit Spiker</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="indexStyle.css">
+</head>
+<body>
+    <div class="container-fluid soutLine">
+        <div class="row  header">
+            <div class="col" id="logo">
+             Wit Spiker
+            </div>
+           <div class="col text-right" id="userName">
+            <span class="susername">Satyajit</span></div>
+        </div>
+        <div class="questionAndAnswer exam-online" >
+            <div class="row" id="question">
+                <p id="ques-div" style="color:black; font-size: 30px;"></p>
+            </div>
+            <div class="row" id="answer">
+                <!-- <form>
+                    <input type="radio" name="option" value="option1" id="option1"> Delhi</br>
+                    <input type="radio" name="option" value="option2" id="option2"> Mumbai</br>
+                    <input type="radio" name="option" value="option3" id="option3"> kolkata</br>
+                    <input type="radio" name="option" value="option4" id="option4"> Bangalore</br>
+                </form> -->
+                <div id="option1" class="checkAnswer"></div> 
+                <div id="option2" class="checkAnswer"></div>
+                <div id="option3" class="checkAnswer"></div>
+                <div id="option4" class="checkAnswer"></div>
+                </div>
+                
+        </div>
+        <button id="next">next</button>
+        <button id="prev" >prev</button>
+        <button id="submit">submit</button>
+    </div>
+    <div id="result-div">
+
+        <!-- sab yehi pe dalna h -->
+        <img src="medal.png" class="medal">
+        <div class="row" id="yourScore">
+            Your Score 
+        </div>
+        <div class="round">
+            <p id="score">8</p>
+        </div>
+        <button id="Diagnosis">Diagnosis</button>
+
+
+            <!-- <div id="yourScore">
+            </div> -->
+    </div>
+
+</body>
+<script src="jquery-3.4.1.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="quiz.js"></script>
+</html>

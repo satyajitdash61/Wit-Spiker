@@ -1,0 +1,157 @@
+body{
+    margin: 0px;
+}
+
+.soutLine{
+background-color: rgb(18, 31, 51);
+height: 17vh;
+}
+#userName{
+color: white;
+font-size: 24px;
+top: 6vh;
+right: 5%;
+}
+#logo{
+    color: white; 
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36px;
+    top: 4vh;
+}
+.questionAndAnswer{
+    position: absolute;
+    top: 25%;
+    left: 20%;
+}
+#next{
+    position: absolute;
+    top: 70%;
+    left: 30%;
+    border: none;
+    width: 7%;
+    border-radius: 10px;
+}
+#next:hover{
+    background-color:aquamarine;
+}
+#prev{
+    position: absolute;
+    top: 70%;
+    left: 19%;
+    border: none;
+    width: 7%;
+    border-radius: 10px;
+
+}
+#prev:hover{
+    background-color:aquamarine;
+}
+#submit{
+    position: absolute;
+    top: 70%;
+    left: 41%;
+    border: none;
+    width: 7%;
+    border-radius: 10px;
+
+    /* display: none; */
+}
+#submit:hover{
+    background-color: aquamarine;
+}
+#option1{
+    position: absolute;
+    height: 45%;
+    width: 125%;
+    top: 10vh;
+    background-color: aquamarine;
+    cursor: pointer;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+#option1:hover{
+    background-color:rgb(7, 161, 207);
+}
+#option2{
+    position: absolute;
+    height: 45%;
+    width: 125%;
+    top: 17vh;
+    background-color: aquamarine;
+    cursor: pointer;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+#option2:hover{
+    background-color:rgb(7, 161, 207);
+}
+#option3{
+    position: absolute;
+    height: 45%;
+    width: 125%;
+    top: 24vh;
+    background-color: aquamarine;
+    cursor: pointer;
+    border-radius: 10px;
+    padding-left: 10px;    
+    
+}
+
+#option3:hover{
+    background-color:rgb(7, 161, 207);
+}
+#option4{
+    position: absolute;
+    height: 45%;
+    width: 125%;
+    top: 31vh;
+    background-color: aquamarine;
+    cursor: pointer;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+#option4:hover{
+    background-color:rgb(7, 161, 207);
+}
+#result-div {
+    display: none;
+}
+#yourScore{
+    position: relative;
+    top: 12vh;
+    left: 44.5%;
+    font-size: 30px;
+}
+.round{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(174, 216, 243);
+    border-radius: 50%;
+    position: relative;
+    top: 15vh;
+    left: 45%;
+    /* justify-content: center; */
+}
+#score{
+    font-size: 25px;
+    position: relative;
+    top: 32%;
+    left: 43%;
+}
+.medal{
+    position: relative;
+    top: 11vh;
+    left: 46.5%;
+    height: 60px;
+    width: 60px;
+}
+#Diagnosis{
+    position: relative;
+    top: 20vh;
+    left: 41%;
+    width: 15%;
+    height: 5vh;
+    border-radius: 50px;
+    border:none;
+    background-color: rgb(159, 245, 245)
+}
