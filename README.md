@@ -13,5 +13,9 @@ Chrome Web Browser
 
 Html, CSS, Javascript, Jquery
 
+# Authors
+Satyajit Dash
+Varun
+
 # preview
 https://practical-noyce-46d5a6.netlify.com/home
