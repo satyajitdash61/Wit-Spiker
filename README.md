@@ -12,3 +12,6 @@ Chrome Web Browser
 # Technlogies Used
 
 Html, CSS, Javascript, Jquery
+
+# preview
+https://practical-noyce-46d5a6.netlify.com/home
