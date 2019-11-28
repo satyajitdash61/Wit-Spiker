@@ -19,4 +19,4 @@ Satyajit Dash
 Varun
 
 # preview
-https://practical-noyce-46d5a6.netlify.com/home
+https://sharp-meitner-973a18.netlify.com/home.html
