@@ -53,6 +53,7 @@ $('.checkAnswer').click(function(){
         console.log(score);
 
     }
+     getNextQues();
 //     else{
 //         alert("Oops! Wrong Answer")
 //     }
@@ -65,4 +66,5 @@ $('#submit').click(function(){
     $('#prev').hide();
     $('#submit').hide();
     document.getElementById('score').innerHTML = score;
+    
 });
